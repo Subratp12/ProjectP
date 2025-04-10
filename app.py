@@ -1,5 +1,5 @@
 import boto3
-import linux
+import Jumanji
 
 # Create an EC2 client using the default region from AWS CLI configuration
 ec2 = boto3.client('ec2')
